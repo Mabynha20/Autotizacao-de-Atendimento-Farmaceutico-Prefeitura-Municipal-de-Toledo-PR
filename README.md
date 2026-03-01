@@ -11,54 +11,54 @@ O sistema permite:
 
 Registro de queixas clínicas
 
-Aplicação automatizada do algoritmo clínico
+-Aplicação automatizada do algoritmo clínico
 
-Sugestão de tratamentos farmacológicos e não farmacológicos
+-Sugestão de tratamentos farmacológicos e não farmacológicos
 
-Identificação de situações que exigem encaminhamento médico
+-Identificação de situações que exigem encaminhamento médico
 
-Geração automática de receituário farmacêutico
+-Geração automática de receituário farmacêutico
 
-Armazenamento estruturado de dados para análises futuras
+-Armazenamento estruturado de dados para análises futuras
 
 A ferramenta foi projetada para ser acessível, de fácil utilização e adaptável para futuras evoluções, como integração com bancos de dados externos ou sistemas web.
 
-Funcionalidades
+Funcionalidades:
 
-Cadastro e gerenciamento de pacientes
+-Cadastro e gerenciamento de pacientes
 
-Registro de sintomas e respostas clínicas
+-Registro de sintomas e respostas clínicas
 
-Processamento automático das decisões conforme protocolo CFF
+-Processamento automático das decisões conforme protocolo CFF
 
-Recomendações terapêuticas personalizadas
+-Recomendações terapêuticas personalizadas
 
-Impressão ou exportação de receituário
+-Impressão ou exportação de receituário
 
-Organização dos dados para geração de indicadores
+-Organização dos dados para geração de indicadores
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 
-Microsoft Excel (.xlsm)
+-Microsoft Excel (.xlsm)
 
-VBA (Visual Basic for Applications)
+-VBA (Visual Basic for Applications)
 
-Lógica baseada em protocolo clínico oficial do CFF
+-Lógica baseada em protocolo clínico oficial do CFF
 
-Como Executar o Projeto
+Como Executar o Projeto:
 Pré-requisitos
 
-Microsoft Excel 2016 ou superior (recomendado)
+-Microsoft Excel 2016 ou superior (recomendado)
 
-Sistema operacional Windows
+-Sistema operacional Windows
 
-Permissão para execução de macros habilitada
+-Permissão para execução de macros habilitada
 
-Baixar o Arquivo
+-Baixar o Arquivo
 
-Faça o download do arquivo .xlsm deste repositório.
+-Faça o download do arquivo .xlsm deste repositório.
 
-Salve em uma pasta local do seu computador (não execute diretamente do navegador).
+-Salve em uma pasta local do seu computador (não execute diretamente do navegador).
 
 Habilitar Macros no Excel
 
@@ -66,60 +66,60 @@ Ao abrir o arquivo pela primeira vez, o Excel provavelmente exibirá um aviso de
 
 Siga os passos:
 
-Abra o arquivo .xlsm.
+-Abra o arquivo .xlsm.
 
-Na barra superior, clique em "Habilitar Conteúdo" ou "Enable Content".
+-Na barra superior, clique em "Habilitar Conteúdo" ou "Enable Content".
 
-Caso apareça aviso de segurança adicional:
+-Caso apareça aviso de segurança adicional:
 
-Clique em "Mais Informações".
+-Clique em "Mais Informações".
 
-Depois em "Executar mesmo assim".
+-Depois em "Executar mesmo assim".
 
-Se as macros estiverem bloqueadas:
+-Se as macros estiverem bloqueadas:
 
 Vá em Arquivo → Opções → Central de Confiabilidade.
 
-Clique em Configurações da Central de Confiabilidade.
+-Clique em Configurações da Central de Confiabilidade.
 
-Acesse Configurações de Macro.
+-Acesse Configurações de Macro.
 
 Selecione:
 
-Habilitar todas as macros (apenas para testes locais)
+-Habilitar todas as macros (apenas para testes locais)
 ou
 
-Desabilitar todas com notificação.
+-Desabilitar todas com notificação.
 
-Como Usar
+Como Usar:
 
-Abra o sistema no Excel.
+-Abra o sistema no Excel.
 
-Navegue pelas abas disponíveis.
+-Navegue pelas abas disponíveis.
 
-Realize o cadastro do paciente.
+-Realize o cadastro do paciente.
 
-Responda às perguntas clínicas conforme atendimento.
+-Responda às perguntas clínicas conforme atendimento.
 
 O sistema irá gerar automaticamente:
 
-Recomendação terapêutica
+-Recomendação terapêutica
 
-Encaminhamento (se necessário)
+-Encaminhamento (se necessário)
 
-Receituário farmacêutico
+-Receituário farmacêutico
 
-Possibilidades Futuras
+Possibilidades Futuras:
 
-Dashboard interativo com análise de dados
+-Dashboard interativo com análise de dados
 
-Integração com banco de dados SQL
+-Integração com banco de dados SQL
 
-Versão web do sistema
+-Versão web do sistema
 
-Relatórios estatísticos automatizados
+-Relatórios estatísticos automatizados
 
-Inteligência artificial para suporte clínico
+-Inteligência artificial para suporte clínico
 
 Aviso
 
