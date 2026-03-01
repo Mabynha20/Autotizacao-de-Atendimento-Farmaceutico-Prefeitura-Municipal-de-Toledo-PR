@@ -1,5 +1,5 @@
-Sistema de Apoio à Decisão Clínica Farmacêutica — CFF
-Descrição
+Sistema de Automatização Clínica Farmacêutica — CFF
+
 
 Este projeto consiste em um sistema desenvolvido em Microsoft Excel com VBA (Visual Basic for Applications) para apoio à decisão clínica farmacêutica, baseado no Algoritmo de Práticas Clínicas do Conselho Federal de Farmácia (CFF).
 
@@ -7,7 +7,7 @@ O objetivo é automatizar o processo de atendimento farmacêutico, tornando a co
 
 O sistema permite:
 
-Cadastro de pacientes
+-Cadastro de pacientes
 
 Registro de queixas clínicas
 
